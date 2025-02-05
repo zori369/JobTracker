@@ -1,0 +1,36 @@
+{
+  "jobs": [
+    {
+      "id": "2",
+      "company": "Amazon",
+      "position": "React Developer",
+      "salary": "1003",
+      "dateApplied": "2024-01-20",
+      "status": "interview"
+    },
+    {
+      "id": "3",
+      "company": "Facebook",
+      "position": "Developer",
+      "salary": 12878197,
+      "dateApplied": "2024-01-20",
+      "status": "applied"
+    },
+    {
+      "id": "1738761741454",
+      "company": "Gameloft",
+      "position": "ghgj",
+      "salary": "324",
+      "dateApplied": "2025-02-05",
+      "status": "interview"
+    },
+    {
+      "id": 1738762757629,
+      "company": "Gameloft",
+      "position": "qw",
+      "salary": "23121",
+      "dateApplied": "2025-02-05",
+      "status": "applied"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\public\\jobs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\jobs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\components\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_job-card.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\_job-card.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_job-list.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\_job-list.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_modal.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\_modal.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_filter-bar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\_filter-bar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_variables.scss",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_variables.scss",
+              "RelativeDocumentMoniker": "src\\styles\\_variables.scss",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_variables.scss",
+              "RelativeToolTip": "src\\styles\\_variables.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-04T13:49:38.026Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-04T19:57:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jobs.json",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\public\\jobs.json",
+              "RelativeDocumentMoniker": "public\\jobs.json",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\public\\jobs.json",
+              "RelativeToolTip": "public\\jobs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T19:57:09.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Header.tsx",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\components\\Header.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Header.tsx",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\components\\Header.tsx",
+              "RelativeToolTip": "src\\components\\Header.tsx",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwB0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-04T14:54:55.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_job-card.scss",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_job-card.scss",
+              "RelativeDocumentMoniker": "src\\styles\\_job-card.scss",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_job-card.scss",
+              "RelativeToolTip": "src\\styles\\_job-card.scss",
+              "ViewState": "AgIAACAAAAAAAAAAAAAEwDQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-04T14:53:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_job-list.scss",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_job-list.scss",
+              "RelativeDocumentMoniker": "src\\styles\\_job-list.scss",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_job-list.scss",
+              "RelativeToolTip": "src\\styles\\_job-list.scss",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-04T14:52:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_filter-bar.scss",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_filter-bar.scss",
+              "RelativeDocumentMoniker": "src\\styles\\_filter-bar.scss",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_filter-bar.scss",
+              "RelativeToolTip": "src\\styles\\_filter-bar.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-04T14:50:21.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_modal.scss",
+              "DocumentMoniker": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_modal.scss",
+              "RelativeDocumentMoniker": "src\\styles\\_modal.scss",
+              "ToolTip": "C:\\Users\\GRIGS\\Desktop\\JobFilter\\jobs-tracker\\src\\styles\\_modal.scss",
+              "RelativeToolTip": "src\\styles\\_modal.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-04T14:47:32.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

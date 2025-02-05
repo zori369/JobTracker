@@ -1,0 +1,50 @@
+@use "variables" as *;
+
+.header {
+    width: 66.66%;
+    height: fit-content;
+    margin-bottom: 30px;
+    background-color: var(--bg-dark-mid);
+    padding: 12px;
+    border-radius: 8px;
+
+    .header__top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+
+        .header__mode {
+            display: flex;
+            align-items: center;
+
+            .header__switch {
+                width: 35px;
+                height: 20px;
+                background-color: var(--bg-dark-high);
+                border-radius: 10px;
+                display: flex;
+                padding: 2px;
+                margin: 0 5px;
+                cursor: pointer;
+                position: relative;
+
+                .switch__circle {
+                    height: 15px;
+                    width: 15px;
+                    border-radius: 50%;
+                    background-color: var(--bg-dark-low);
+                    transition: transform 0.3s ease;
+                }
+
+                &.light-mode {
+                    background-color: #ddd;
+
+                    .switch__circle {
+                        transform: translateX(15px);
+                    }
+                }
+            }
+        }
+    }
+}

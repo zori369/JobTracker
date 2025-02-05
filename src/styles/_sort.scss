@@ -1,0 +1,14 @@
+@use "variables" as *;
+
+.sort {
+    height: fit-content;
+
+    .sort__dropdown {
+        border: none;
+        outline: none;
+        border-radius: 5px;
+        padding: 8px 10px;
+        font-size: 12px;
+        color: var(--bg-dark-low);
+    }
+}

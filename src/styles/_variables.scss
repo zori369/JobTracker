@@ -1,0 +1,25 @@
+:root {
+    --bg-dark-high: #0E0E10;
+    --bg-dark-mid: #202027;
+    --bg-dark-low: #2E2E38;
+    --primary-text: #FFFFFF;
+    --secondary-text: #D0D0D0;
+    --border-title: #E0E0E0;
+    --bg-button: #008CFF;
+    --state-applied: #4CAF50;
+    --state-interview: #D9A23A;
+    --state-rejected: #D35454;
+}
+
+.light-theme {
+    --bg-dark-high: #FFFFFF;
+    --bg-dark-mid: #F5F5F5;
+    --bg-dark-low: #E0E0E0;
+    --primary-text: #000000;
+    --secondary-text: #333333;
+    --border-title: #555555;
+    --bg-button: #007ACC;
+    --state-applied: #2E7D32;
+    --state-interview: #C48F00;
+    --state-rejected: #C62828;
+}

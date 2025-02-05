@@ -1,0 +1,34 @@
+@use "variables" as *;
+
+.job-list {
+    width: 66.66%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    max-height: 400px;
+    overflow-y: auto;
+    background-color: var(--bg-dark-mid);
+    box-shadow: inset 0px 0px 10px 2px var(--bg-dark-high);
+    padding: 12px;
+    border-radius: 8px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.job-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.job-list::-webkit-scrollbar-thumb {
+    background: var(--bg-dark-low);
+    border-radius: 50px;
+}
+
+.job-list::-webkit-scrollbar-track {
+    //background: darken(var(--bg-dark-mid), 5%);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-button {
+    display: none; 
+}

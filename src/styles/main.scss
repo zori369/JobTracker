@@ -1,0 +1,35 @@
+@use "variables" as *;
+@use "header" as *;
+@use "filter-bar" as *;
+@use "job-list" as *;
+@use "job-card" as *;
+@use "modal" as *;
+@use "sort" as *;
+@use "search" as *;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--bg-dark-high);
+    font-family: Arial, sans-serif;
+    padding-top: 60px;
+    position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--border-title);
+}
+
+p {
+    color: var(--primary-text);
+}

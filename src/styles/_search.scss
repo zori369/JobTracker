@@ -1,0 +1,20 @@
+.search {
+    display: flex;
+    position: relative;
+    height: fit-content;
+
+    .search__field {
+        padding: 8px 45px 8px 10px;
+        height: fit-content;
+        border: none;
+        outline: none;
+        border-radius: 5px;
+        font-size: 14px;
+    }
+
+    svg {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+    }
+}

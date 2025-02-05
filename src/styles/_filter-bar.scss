@@ -1,0 +1,23 @@
+@use "variables" as *;
+
+.filter-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .addNew {
+        background-color: var(--bg-button);
+        outline: none;
+        border: 2px solid var(--border-title);
+        padding: 6px 12px;
+        border-radius: 6px;
+        color: var(--bg-light-theme);
+        cursor: pointer;
+        transition: background 0.3s;
+
+        &:hover {
+            background-color: var(--bg-button);
+            opacity: 0.9;
+        }
+    }
+}
