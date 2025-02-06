@@ -28,3 +28,7 @@ A **React.js** job tracking application with filtering, sorting, and a modal-bas
    npm run server
 5. Run tests:
    npm test
+
+   ## 🎥 Demo Video
+
+[Click here to watch the demo](JobTrackerPreview.mp4)
